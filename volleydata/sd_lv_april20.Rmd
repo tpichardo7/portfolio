@@ -34,7 +34,7 @@ library(dplyr)
 ```{r}
 sd_lv = dv_read(("./volleydata/data/april20.sdvslv"), insert_technical_timeouts = FALSE)
 
-summary(x)
+summary(sd_lv)
 ```
 
 ```{r}

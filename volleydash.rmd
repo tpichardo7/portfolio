@@ -1,0 +1,21 @@
+---
+title: "volleydash"
+output: github_document
+---
+
+```{r}
+install.packages(c(
+  "shiny", "tidyverse", "DT", "plotly", "shinydashboard"
+))
+```
+
+```{r}
+library(tidyverse)
+
+vb <- read_excel("rutgers_2024.xlxs")
+```
+
+```{r}
+
+```
+

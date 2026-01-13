@@ -38,7 +38,8 @@ output:
 *   Implement data input system: Let teams upload their own CSV/stat sheet and generate dashboards automatically 
 *   Use advanced volleyball metrics: Calculate metrics such as expected side-out percentage, serve efficiency based on serve receive efficiency, and rotation success rate 
 
-
+  
+**Link**: [Dashboard](https://tpichardo.shinyapps.io/volleydash/)    
 **Link**: [GitHub](https://github.com/tpichardo7/volleydashboard.git)     
 
 
