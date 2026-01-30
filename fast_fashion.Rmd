@@ -8,6 +8,10 @@ output:
 
 # A Case Study of H&M, Zara, and Shein    
 
-*   Conducted statistical analyses to evaluate market strategies and consumer behavior trends in the fast fashion industry
+Objective: To understand how brand strategy, transparency and public perception influence consumer engagement and demand  
 
-*   Analyzed cost-effectiveness and ethical business practices, providing insights on consumer purchasing decisions 
+*   Conducted a comparative analysis of H&M, Zara, and Shein  
+*   Examined how marketing campaigns, sustainability messaging, and previous disputes impacted comsumer trust and brand reputation  
+*   Worked with a mix of market research, public reporting and case-based data to identify patterns in how consumers respond to transparency, ethical practices, and rapid trend cycles 
+
+Key Insight: Transparency and brand accountability play a measureable role in consumer decision making, expecially younger audiences, which may influence engagement and purchasing behavior aside from price

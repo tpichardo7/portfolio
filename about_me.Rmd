@@ -6,62 +6,56 @@ output:
     toc_float: true
 ---
 
+Data Analyst with experience in statistical modeling, data visualization, and stakeholder-focused insights. Skilled in R, Python, SQL, and storytelling translating complex datasets into actionable recommendations to improve business practices, customer engagement, and operational efficiency. 
+
 # Professional Experience
 
-**Rutgers University**, New Brunswick, NJ    
-_Sports Data Analyst_ | August 2024 - Present  
+**Sports Analyst**, New Brunswick, NJ    
+_Rutgers University_ | August 2024 - Present  
 
-*   Collaborate with B1G+ production teams, coaching staff, and sports information personnel to identify performance trends and prepare comprehensive match notes covering over 20 athletes per match 
+*   Collect, clean, and analyze large datasets for B1G+ production teams and on-air personnel to provide real-time performance trends and insights for live broadcasts covering 20+ athletes per match 
 
-*   Analyze player and team performance data using R and Python, producing 15-20 data visuals and statistical summaries per match to support on-air insights 
+*   Develop 15-20 dashboards and visual summaries using R, presenting findings to inform operational adjustments and enhancing broadcast commentary for 5,000+ viewers 
 
-**Pinnacle Volleyball Academy**, West Nyack, NY    
-_Head Coach/Technical Director_ | December 2019 - Present  
+**Head Coach/Technical Coordinator**, West Nyack, NY    
+_Pinnacle Volleyball Academy_ | December 2019 - Present  
 
-*   Partner with coaching staff to design practice plans and game strategies informed by player performance metrics and opponent analytics for 100+ athletes
+*   Manage operational data and analysis reports for 100+ athletes across multiple age groups using player-level metrics to optimize program effectiveness 
 
-*   Conduct in-depth video breakdowns and statistical analysis to evaluate player efficiency, success rates, and game impact to enhance player IQ and decision-making    
+*   Conduct systematic video and statistical analysis to evaluate player efficiency, success rates, and game impact to enhance player IQ and decision-making   
 
-**Iona University**, New Rochelle, NY    
-_NCAA Division I Student-Athlete_ | August 2020 - May 2024  
+**Performance Analysis Contributor**, Orangeburg, NY    
+_St. Thomas Aquinas College_ | August 2020 - November 2024  
 
-*   Produced scouting reports on opposing teams by analyzing video footage, identifying offensive/defensive tendencies, and contributing to match strategies
+*   Analyzed historical and operational data using opponent statistics and film, to identify offensive/defensive patterns and trends, providing actionable recommendations  
 
-*   Collaborated with teammates and staff to implement tactical adjustments based on data-driven insights, including serve/receive patterns, hitting efficiency and blocking schemes     
+*   Collaborated with staff and players, producing reports and visual summaries for presentations to understand key metrics and implement tactical adjustments     
 
-# Research Experience
+# Research and Applied Data Projects
 
 **Perfluorinated Substances Exposure and Metabolomic Signatures in Cord Blood Samples from the World Trade Center Birth Cohort: A Statistical Analysis Comparing Non-Targeted and Targeted Assays
 **   
-Advisor: Julie Herbstman, MSc, PhD
+Advisor: Julie Herbstman, MSc, PhD and Kendall Krutchen, MPH  
 
-**Associations between PFAS exposure with early reproductive health in females and males and fertility outcomes: A cross-sectional ecological study at the county level**   
-Advisor: Jeremy Porter, PhD and Matt Perzanowski, PhD, MPH
+*   Conducted advanced regression analyses from large, complex datasets, comparing targeted and non-targeted assays between per- and polyfluorinated substances
 
-**Assessing Aedes aegypti activity and dengue infection using CMIP5 temperature projections for Los Angeles, California: an exercise in temperature-dependent variability**   
-Advisor: Wan Yang, PhD
+*   Visualized complex datasets for trend analysis, enhancing decision-making for intervention strategies
 
-**Drinking Water Contamination and Low Birth Weight in California: A Statistical Analysis**    
-Advisor: Marianthi-Anna Kioumourtzoglou, ScD, MSPH
 
 **Elk Expeditions: The Elk, the Environment, and the Evolving Migration in Yellowstone**   
-Advisor: Jeff Goldsmith, PhD 
+Advisor: Jeff Goldsmith, PhD   
 
-**Ecotourism and the Exploitation of Small Island Developing States**                                   
-_A Case Study of Rural Communities in the Dominican Republic_   
-Advisor: Jeanne Zaino, PhD  
+*   Analyzed GPS movement data of 17 female elk in Wyoming across 9 years (2006-2015) using R
 
-*   Built econometric models using national and regional data to assess sustainability outcomes in rural communities
-
-*   Applied software tools such as Gretl to evaluate economic trends and proposed evidence-based recommendations for policy improvements
+*   Built an interactive Shiny application, visualizing migration patterns of 3 environmental variables: weather, land cover, and water quality
 
 **Conspicuous Consumption and the Role of the Fast Fashion Industry in Consumer Behavior**      	
 _A Case Study of H&M, Zara, and Shein_    
 Advisor: Robert Lacey, PhD
 
-*   Conducted statistical analyses to evaluate market strategies and consumer behavior trends in the fast fashion industry
+*   Conducted statistical analyses to evaluate market strategies and customer purchasing behavior in the fast fashion industry using survey and market data, providing insights on drivers influencing demand 
 
-*   Analyzed cost-effectiveness and ethical business practices, providing insights on consumer purchasing decisions       
+*   Interpreted model outputs to recommend cost-effective strategies for engagement and sales optimization    
 
 # Education
 
@@ -76,17 +70,7 @@ Advisor: Robert Lacey, PhD
 
 # Skills and Certifications
 
-**Data Analysis and Statistics**: R/R Studio, Python, SQL
+**Programming and Analytics**: R/R Studio, Python, Excel, Shiny, SQL
 **Language Skills**: English, Spanish   
 **Certifications**: Biomedical Research, Social/Behavioral Research, Human Subjects Protection Biomed       
-
-# Related Coursework
-
-*   Data Science I/II   
-*   Biostatistical Methods I/II   
-*   Advanced Analytical Methods in Environmental Health Sciences  
-*   Econometrics   
-*   Intermediate Micro/Macroeconomic Analysis    
-*   Economics of Money and Banking
-*   International Economics
 
